@@ -53,11 +53,20 @@
 
 ### 🔥 GitHub Streak
 
+<!-- GitHub Stats & Streaks Section -->
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifercode2058&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucifercode2058&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifercode2058&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="40%" />
 </p>
 
----
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifercode2058&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
 
 ### 📬 Contact Me
 

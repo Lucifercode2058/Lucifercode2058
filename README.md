@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-![Banner](https://source.unsplash.com/1600x400/?frontend,webdevelopment,javascript,technology)
+![Banner](https://source.unsplash.com/1600x400/?technology,coding,developer)
+
 
 <!-- Typing Text Animation -->
 <h1 align="center">
